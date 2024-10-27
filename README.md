@@ -1,4 +1,4 @@
-![Hola, my name is Bhas 😀](assets/image.png.jpg)
+![Hola, my name is Bhas 😀](assets/image.png)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
