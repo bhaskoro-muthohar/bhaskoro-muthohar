@@ -1,4 +1,4 @@
-![Hola, my name is Bhas 😀](https://cdn.discordapp.com/attachments/959847873778958336/1296301994608169053/IMG_0649.jpg?ex=6711cacf&is=6710794f&hm=0edc5012193b1aa8490570614d51612fa5f66456ed24b431c270fdc56f43e997&)
+![Hola, my name is Bhas 😀](assets/image.png.jpg)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
