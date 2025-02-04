@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Deploying ML Models to production env @ StratisX**
+- 💼 I'm currently working on: **💻 Deploying ML Models to production env @ StraitsX**
 - 🌱 I'm currently learning: **📚 Backend and CloudOps**
 - 💬 Ask me about: **💡 Python, SQL, Statistics, ML/AI**
 
