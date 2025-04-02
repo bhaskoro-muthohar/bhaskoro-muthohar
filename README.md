@@ -147,6 +147,19 @@
   <a href="https://itsmebhas.net" target="_blank"><strong>Visit My Website For More Projects</strong></a>
 </div>
 
+## Featured Articles
+
+<table align="center">
+<tr>
+  <td width="100%" align="center">
+    <h3>A/B Testing Case Study</h3>
+    <p>📈 Achieved 590% user funnel increase in 2 months</p>
+    <p>This article explores the implementation of A/B testing methodologies at GovTech Edu, highlighting how data-driven decisions led to significant improvements in user engagement and conversion rates.</p>
+    <a href="https://medium.com/govtech-edu/experimentation-culture-at-govtech-edu-how-we-utilize-a-b-testing-method-to-build-data-driven-a9a00c14c1a4" target="_blank">Read on Medium →</a>
+  </td>
+</tr>
+</table>
+
 <div class="github-stats">
   <h2 align="center">GitHub Stats</h2>
   
@@ -160,21 +173,7 @@
   </div>
 </div>
 
-<div class="articles-section">
-  <h2 align="center">Featured Articles</h2>
-  
-  <div style="max-width: 800px; margin: 30px auto; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); background-color: #f8f9fa;">
-    <h3 style="margin-top: 0; color: #333;">A/B Testing Case Study</h3>
-    <p>📈 Achieved 590% user funnel increase in 2 months</p>
-    <p style="margin-bottom: 20px;">This article explores the implementation of A/B testing methodologies at GovTech Edu, highlighting how data-driven decisions led to significant improvements in user engagement and conversion rates.</p>
-    <div style="text-align: right;">
-      <a href="https://medium.com/govtech-edu/experimentation-culture-at-govtech-edu-how-we-utilize-a-b-testing-method-to-build-data-driven-a9a00c14c1a4" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #333; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">Read on Medium</a>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="margin-top: 50px; padding: 20px; border-top: 1px solid #e1e4e8;">
-  <p>Thanks for visiting my profile! Feel free to connect with me on any of the platforms above or check out my personal website at <a href="https://itsmebhas.net" target="_blank">itsmebhas.net</a>.</p>
+<div align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=bhaskoro-muthohar&style=flat-square&color=blue" alt="Profile views" />
   </p>
